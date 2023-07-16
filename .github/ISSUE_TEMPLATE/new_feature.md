@@ -2,7 +2,7 @@
 name: New Feature
 about: Template for requesting a new feature or enhancement to be added
 title: ''
-labels: New Feature
+labels: New Feature/Change
 assignees: ''
 
 ---

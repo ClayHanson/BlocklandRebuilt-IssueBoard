@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ### Bug Description
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is. **Please make sure you have checked if this bug has already been reported.**
 
 ### To Reproduce
 Optionally, provide us with instructions/explanation on how we can reproduce this problem.
@@ -18,7 +18,7 @@ Optionally, provide us with instructions/explanation on how we can reproduce thi
 4. See error
 
 ### Screenshots
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots or videos to help explain your problem.
 
 ### Metadata:
  - Game Version: `v#.##`

@@ -17,7 +17,7 @@ If observing the inconsistency requires a procedure, outline it below.
 3. Scroll down to '....'
 
 ### Screenshots
-If applicable, add screenshots to help show the inconsistency. Direct comparison images between retail and rebuilt is appreciated.
+If applicable, add screenshots or video to help show the inconsistency. Direct comparison images between retail and rebuilt is appreciated.
 
 ### Metadata:
  - Game Version: `v#.##`
